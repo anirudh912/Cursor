@@ -30,3 +30,19 @@ This project is currently **in progress**. New webservice plugins, features and 
    ```bash
    git clone https://github.com/your-username/screen-text-scanner.git
    cd screen-text-scanner
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the application:
+   ```bash
+   python launcher.py
+
+## 🖥️ Usage
+
+1. When the application starts, you will be prompted to set a shortcut key (e.g., Ctrl+D).
+
+2. Use the shortcut key to select a region of your screen for text extraction.
+
+3. The extracted text will be used for Google Search or any other configured task.
