@@ -1,6 +1,6 @@
 # Cursor
 
-# Screen Text Scanner and Google Search
+# Screen Text Scanner
 
 ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)  
 *A Python application that allows you to scan text from your screen using OCR (Optical Character Recognition) and use the extracted text on webservices like Google Search. The task results are displayed in a pop-up window.*
