@@ -2,3 +2,5 @@ pyautogui
 easyocr
 keyboard
 numpy
+tkinter
+webbrowser
