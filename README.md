@@ -3,20 +3,19 @@
 # Screen Text Scanner and Google Search
 
 ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)  
-*A Python application that allows you to scan text from your screen using OCR (Optical Character Recognition) and search the extracted text on Google. The search results are displayed in a pop-up window with clickable links.*
+*A Python application that allows you to scan text from your screen using OCR (Optical Character Recognition) and use the extracted text on webservices like Google Search. The task results are displayed in a pop-up window.*
 
 ---
 
 ## 🚧 Project Status
-This project is currently **in progress**. New features and improvements are being actively worked on and will be added soon. Stay tuned for updates!
+This project is currently **in progress**. New webservice plugins, features and improvements are being actively worked on and will be added soon. Stay tuned for updates!
 
 ---
 
 ## Features
-- **Text Scanning**: Select a region of your screen to extract text using EasyOCR.
-- **Google Search**: Automatically search the extracted text on Google.
-- **Clickable Results**: View search results in a pop-up window with clickable links.
+- **Text Scanning**: Select a region of your screen to extract text using EasyOCR. Possible to scan text in an image to be used for convenience.
 - **Customizable Shortcut**: Set a custom shortcut key for scanning.
+- **Customizable Use Cases**: Can be set to use any other webservice(by default it is Google Search with hyperlink results). Or also can be configured for other tasks using the scanned text.
 
 ---
 
